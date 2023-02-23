@@ -19,12 +19,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cpt. CMDLET                          # the main title
+title: cptcmdlet                         # the main title
 
-tagline: the misadventures of cpt. cmdlet   # it will display as the sub-title
+tagline: the misadventures of cptcmdlet   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  brute force learning.
+ cmdlet blog about PowerShell and .Net. Brute force learning.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
